@@ -8,11 +8,6 @@
   "display":"standalone",
   "scope": "./",
   "icons":[
-      {
-        "src": "./images/touch/android-launchericon-96-96.png",
-        "type": "image/png",
-        "sizes": "96x96"
-      },
      {
         "src": "./images/touch/favicon-225.png",
         "type": "image/png",
