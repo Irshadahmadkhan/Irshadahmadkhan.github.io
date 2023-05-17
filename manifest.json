@@ -1,84 +1,84 @@
 {
   "name":"Irshad Ahmad Khan",
   "short_name":"Irshad",
-  "description": "The world's best airhorner, and it's free",
+  "description": "The world's best Todo list, and it's free",
   "start_url":"./?hs=1",
   "theme_color":"#0078be",
   "background_color":"#0078be",
   "display":"standalone",
   "scope": "./",
   "icons":[
-      {
-        "src": "./images/touch/android-launchericon-48-48.png",
-        "type": "image/png",
-        "sizes": "48x48"
-      },
-      {
-        "src": "./images/touch/android-launchericon-72-72.png",
-        "type": "image/png",
-        "sizes": "72x72"
-      },
-      {
-        "src": "./images/touch/android-launchericon-96-96.png",
-        "type": "image/png",
-        "sizes": "96x96"
-      },
-      {
-        "src": "./images/touch/android-launchericon-144-144.png",
-        "type": "image/png",
-        "sizes": "144x144"
-      },
-      {
-        "src": "./images/touch/android-launchericon-192-192.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-     {
-        "src": "./images/touch/favicon-225.png",
-        "type": "image/png",
-        "sizes": "225x225"
-      },
-      {
-        "src": "./images/touch/android-launchericon-512-512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      },
-
-      {
-        "src": "./images/touch/android-maskableicon-48-48.png",
-        "type": "image/png",
-        "sizes": "48x48",
-        "purpose": "maskable"
-      },
-      {
-        "src": "./images/touch/android-maskableicon-72-72.png",
-        "type": "image/png",
-        "sizes": "72x72",
-        "purpose": "maskable"
-      },
-      {
-        "src": "./images/touch/android-maskableicon-96-96.png",
-        "type": "image/png",
-        "sizes": "96x96",
-        "purpose": "maskable"
-      },
-      {
-        "src": "./images/touch/android-maskableicon-144-144.png",
-        "type": "image/png",
-        "sizes": "144x144",
-        "purpose": "maskable"
-      },
-      {
-        "src": "./images/touch/android-maskableicon-192-192.png",
-        "type": "image/png",
-        "sizes": "192x192",
-        "purpose": "maskable"
-      },
-      {
-        "src": "./images/touch/android-maskableicon-512-512.png",
-        "type": "image/png",
-        "sizes": "512x512",
-        "purpose": "maskable"
-      }
+    {
+      "src": "./images/icon/favicon-225.png",
+      "type": "image/png",
+      "sizes": "225x225"
+    },
+      // {
+      //   "src": "./images/touch/android-launchericon-48-48.png",
+      //   "type": "image/png",
+      //   "sizes": "48x48"
+      // },
+      // {
+      //   "src": "./images/touch/android-launchericon-72-72.png",
+      //   "type": "image/png",
+      //   "sizes": "72x72"
+      // },
+      // {
+      //   "src": "./images/touch/android-launchericon-96-96.png",
+      //   "type": "image/png",
+      //   "sizes": "96x96"
+      // },
+      // {
+      //   "src": "./images/touch/android-launchericon-144-144.png",
+      //   "type": "image/png",
+      //   "sizes": "144x144"
+      // },
+      // {
+      //   "src": "./images/touch/android-launchericon-192-192.png",
+      //   "type": "image/png",
+      //   "sizes": "192x192"
+      // },
+      // {
+      //   "src": "./images/touch/android-launchericon-512-512.png",
+      //   "type": "image/png",
+      //   "sizes": "512x512"
+      // },
+      
+      // {
+      //   "src": "./images/touch/android-maskableicon-48-48.png",
+      //   "type": "image/png",
+      //   "sizes": "48x48",
+      //   "purpose": "maskable"
+      // },
+      // {
+      //   "src": "./images/touch/android-maskableicon-72-72.png",
+      //   "type": "image/png",
+      //   "sizes": "72x72",
+      //   "purpose": "maskable"
+      // },
+      // {
+      //   "src": "./images/touch/android-maskableicon-96-96.png",
+      //   "type": "image/png",
+      //   "sizes": "96x96",
+      //   "purpose": "maskable"
+      // },
+      // {
+      //   "src": "./images/touch/android-maskableicon-144-144.png",
+      //   "type": "image/png",
+      //   "sizes": "144x144",
+      //   "purpose": "maskable"
+      // },
+      // {
+      //   "src": "./images/touch/android-maskableicon-192-192.png",
+      //   "type": "image/png",
+      //   "sizes": "192x192",
+      //   "purpose": "maskable"
+      // },
+      // {
+      //   "src": "./images/touch/android-maskableicon-512-512.png",
+      //   "type": "image/png",
+      //   "sizes": "512x512",
+      //   "purpose": "maskable"
+      // }
   ]
 }
