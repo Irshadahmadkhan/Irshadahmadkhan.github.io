@@ -3,8 +3,8 @@
   "short_name":"Irshad",
   "description": "The world's best Todo list, and it's free",
   "start_url":"./?hs=1",
-  "theme_color":"#0078be",
-  "background_color":"#0078be",
+  "theme_color":"#eee",
+  "background_color":"#eee",
   "display":"standalone",
   "scope": "./",
   "icons":[

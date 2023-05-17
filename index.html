@@ -12,7 +12,7 @@
     <meta name='application-name' content='Air Horner'>
     <meta name='apple-mobile-web-app-status-bar-style' content='black'>
     <meta name='apple-mobile-web-app-title' content='Air Horner'>
-   <meta name='msapplication-TileColor' content='#f00'>
+   <meta name='msapplication-TileColor' content='#000'>
 <meta name="theme-color" content="#ddd">
     <link rel='icon' sizes='192x192' href='./images/icon/favicon-192.png'>
     <link rel='apple-touch-icon'  href='./images/icon/favicon-192.png'>
@@ -81,13 +81,13 @@ body {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  background: linear-gradient(#F00000, #DC281E);
+  background: linear-gradient(#eee, #ddd);
   font-family: sans-serif;
 }
 
 button:hover {
   cursor: pointer;
-  background-color: #73E831;
+  background-color: #ddd;
 }
 
 ul {
@@ -106,7 +106,7 @@ ul {
 }
 
 h1 {
-  color: #fff;
+  color: #333;
   font-size: 3rem;
 }
 
@@ -124,16 +124,19 @@ h1 {
   padding: 10px;
   margin-right: 10px;
   font-size: 1rem;
+  background-color: #eee;
+  box-shadow:inset -2px -2px 2px 2px #fff,inset 1px 1px 3px 0px #111a;
 }
 
 .add-button {
-  background-color: #0000ff;
-  color: #fff;
+  background-color: #eee;
+  color: #333;
   border: none;
   outline: none;
   border-radius: 5px;
   padding: 7px;
   font-size: 1.2rem;
+  box-shadow: -2px -2px 2px 2px #fff, 1px 1px 3px 0px #111a;
 }
 
 /* todo-form style ends */
@@ -145,9 +148,10 @@ h1 {
 
 /* each li with class="item" */
 .item {
-  background-color: #fff;
+  background-color: #eee;
   padding: 10px;
   font-size: 1.1rem;
+  box-shadow: -2px -2px 2px 2px #fff, 1px 1px 3px 0px #111a;
 }
 
 .item:first-child {
