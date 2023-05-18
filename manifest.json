@@ -14,14 +14,15 @@
       "sizes": "192x192"
     },
     {
-      "src": "./images/icon/favicon-225.png",
-      "type": "image/png",
-      "sizes": "225x225"
-    },
-    {
       "src": "./images/icon/favicon-512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "./images/icon/favicon-mask-225.png",
+      "type": "image/png",
+      "sizes": "225x225",
+      "purpose": "maskable"
     }
   ]
 }
