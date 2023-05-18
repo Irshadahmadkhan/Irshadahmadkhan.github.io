@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 <head>
   <title>Todo | Irshad</title>
 <link rel="manifest" href="manifest.json">
 
     <meta name='description' content='An Air horn. Probably the best air horn web app there is.'>
-    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no'>
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes'>
     <link rel="canonical" href="https://irshadak.000webhostapp.com/other/admin/">
     <meta name='mobile-web-app-capable' content='yes'>
     <meta name='apple-mobile-web-app-capable' content='yes'>
@@ -60,7 +60,7 @@ console.log("SW not supported");
     <ul class="todo-items">
       <!-- dummy item -->
       <li class="item" data-key="1594003133171">
-        <input class="checkbox" type="checkbox">
+        <label><input class="checkbox" type="checkbox"></label>
         Go to Gym
         <button class="delete-button">X</button>
       </li>
@@ -258,7 +258,7 @@ function renderTodos(todos) {
     }
 
     li.innerHTML = `
-      <input type="checkbox" class="checkbox" ${checked}>
+      <label><input type="checkbox" class="checkbox" ${checked}></label>
       ${item.name}
       <button class="delete-button">X</button>
     `;
